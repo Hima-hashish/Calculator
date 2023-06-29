@@ -9,13 +9,13 @@ table {
     transform: translate(-50%, -50%);
     padding: 10px;
     background-color: #3f3d41;
-    border-radius: 15px;
+    border-radius: 16px;
 }
 
 thead tr td {
     height: 30px;
     background-color: #a2af77;
-    border-radius: 10px;
+    border-radius: 11px;
 }
 
 td {
