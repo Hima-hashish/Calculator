@@ -1,2 +1,2 @@
 # Calculator
-Calculator Using HTML &amp; CSS (using table tag)
+Calculator Using HTML & CSS (using table tag)
